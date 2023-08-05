@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  time_stamp: 2023-07-09
+  clock_in: false
+  clock_out: false
+
+two:
+  user_id: 1
+  time_stamp: 2023-07-09
+  clock_in: false
+  clock_out: false
