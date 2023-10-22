@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   
+  namespace :alter do
+    resources :posts
+  end
   #devise users
   devise_for :users, controllers: {
     sessions: 'users/sessions',
