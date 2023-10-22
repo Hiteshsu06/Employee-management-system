@@ -1,0 +1,16 @@
+#hidden-element {
+  display: none !important;
+}
+.p-datatable .p-datatable-tbody > tr > td {
+  padding: 1rem !important;
+}
+.image-outer-div {
+  display: flex;
+  justify-content: center;
+}
+.table-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 25%;
+}

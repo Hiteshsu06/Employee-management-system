@@ -1,0 +1,24 @@
+.salaryListContainer{
+    padding: 20px !important;
+    background-color: aqua;
+}
+.card-custom-style{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px 0px;
+}
+.display-flex{
+    display: flex;
+}
+.card-sub-headings{
+    font-weight: 800;
+}
+.margin-start-20px{
+    margin-left: 20px;
+}
+.salary-card-heading{
+    font-size: 24px;
+    font-weight: 600;
+    margin: 20px 0px;
+}

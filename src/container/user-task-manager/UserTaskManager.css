@@ -1,0 +1,70 @@
+.custom-card-design {
+  width: 300px !important;
+  height: 350px !important;
+  position: relative !important;
+  overflow-y: scroll !important;
+  padding-bottom: 20px !important;
+  width: 284px !important;
+}
+
+.task-custom-button {
+  height: 20px !important;
+  padding: 0px !important;
+  width: 20px !important;
+  scale: 1.1;
+}
+.task-custom-button:focus {
+  box-shadow: none !important;
+}
+.buttons-grid {
+  text-align: right !important;
+}
+.justify-content-space-between {
+  display: flex;
+  justify-content: space-between !important;
+}
+.custom-table {
+  width: 100% !important;
+}
+.custom-h-40 {
+  height: 40px;
+}
+.display-flex {
+  display: flex;
+}
+.margin-left-20px {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.margin-top-20px {
+  margin-top: 20px;
+}
+.p-card {
+  box-shadow: 0 2px 1px -1px rgb(0 0 0 / 49%), 0 1px 1px 0 rgb(0 0 0 / 30%),
+    0 1px 3px 0 rgb(0 0 0 / 34%) !important;
+}
+.custom-create-button:active {
+  background-color: rgb(30, 8, 8) !important;
+}
+.project-cards-div {
+  flex-wrap: wrap;
+}
+.task-label label {
+  width: 170px !important;
+}
+.theme-background-color {
+  background-color: rgb(30, 8, 8) !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+.margin-right-20px {
+  margin-right: 20px !important;
+}
+.cursor-pointer :hover {
+  cursor: pointer;
+}
+.circular-loader {
+  position: absolute;
+  left: 50% !important;
+  z-index: 1;
+}

@@ -1,0 +1,16 @@
+.permission-text {
+  color: black;
+  font-size: 17px;
+}
+.Authorized {
+  color: #6466e5;
+  font-size: 40px;
+  margin: 10px;
+}
+.img-setting {
+  height: 300px;
+}
+.page-container.error-found {
+  text-align: center;
+  margin-top: 7%;
+}

@@ -1,0 +1,35 @@
+.custom-field-heading {
+  font-weight: 600;
+  margin-bottom: 7px;
+}
+.upload-button-custom-css:hover {
+  cursor: pointer;
+}
+.product-upload-custom-heading {
+  margin-bottom: -24px !important;
+}
+.custom-dropdown input {
+  height: 7px !important;
+}
+.custom-dropdown label {
+  margin-top: -10px;
+}
+.custom-dropdown-outer-grid .Mui-focused label {
+  margin-top: 0px !important;
+}
+.custom-dropdown-outer-grid .MuiAutocomplete-hasClearIcon label {
+  margin-top: 0px !important;
+}
+.upload-button-custom-css:hover {
+  cursor: pointer;
+}
+#contained-button-file {
+  position: absolute;
+  z-index: 2;
+  padding: 8px 0px;
+  opacity: 0;
+  width: 150px;
+}
+.image-grid {
+  border: 1px solid rgb(30, 8, 8) !important;
+}

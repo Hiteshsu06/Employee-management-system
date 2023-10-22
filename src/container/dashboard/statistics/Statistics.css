@@ -1,0 +1,55 @@
+.display-flex {
+  display: flex;
+}
+.justify-space-between {
+  justify-content: space-between;
+}
+.custom-card-padding {
+  padding: 50px 40px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.custom-create-button {
+  padding: 7px 45px;
+  color: white;
+  background-color: rgb(30, 8, 8);
+  border-color: rgb(30, 8, 8);
+  box-shadow: none;
+  height: 70px;
+  margin: 50px;
+}
+.custom-create-button:hover {
+  background-color: rgb(59, 18, 18);
+  border-color: rgb(30, 8, 8);
+}
+@media screen and (max-width: 768px) {
+  .dashboard-lists {
+    text-align: center;
+  }
+  .dashboard-heading {
+    text-align: center;
+  }
+  .responsive-cards-grid {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .custom-card-padding {
+    margin: 20px auto;
+  }
+}
+.clock-in-div {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+.theme-border {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  padding: 55px 170px;
+}
+.clock-fonts {
+  font-size: 40px;
+  font-weight: 700;
+}
+.clock-button-div {
+  width: 27%;
+}
